@@ -19,8 +19,10 @@ Project using the Google Colab platform. Written in python, using data visualiza
 - Compare models on charts
   
 ## Screens
+# Number of transactions in 2012 and 2013
+![12_number_of_transactions](https://github.com/user-attachments/assets/c4a6ae8b-15d5-4fff-a4ec-6d63b8631ef4)
+![13_Comparison_of_the_number_of_transaction](https://github.com/user-attachments/assets/24086910-18f5-48f4-a7e0-7a156011d9e8)
 # Average of real estate prices
-
 ![1_Average_real_estate_prices](https://github.com/user-attachments/assets/1b209fe1-739a-430e-b66e-d90d250347be)
 ![2_Comparison_of_Average_real_estate_prices_2012_2013](https://github.com/user-attachments/assets/b1c3b0e2-d290-409f-a45d-3d730edb06ca)
 
